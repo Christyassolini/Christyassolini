@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Christyan Assolini
 
-**`Estudandte de Engenharia de Software`**
+**`Estudante de Engenharia de Software`**
 
 Prazer, meu nome é Christyan Assolini, tenho 20 anos e atualmente trabalho como auxiliar de soldador. Embora minha ocupação atual não esteja relacionada à minha área de interesse, estou cursando Engenharia de Software e me dedicando ao aprendizado de tecnologias voltadas ao desenvolvimento web, com foco em full-stack. Estou em busca de uma oportunidade para aplicar esses conhecimentos e crescer profissionalmente na área de tecnologia.
 
