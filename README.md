@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Christyan Assolini
+# 👨🏼‍💻 Christyan Assolini
 
 **`Estudante de Engenharia de Software`**
 
