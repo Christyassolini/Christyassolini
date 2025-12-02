@@ -5,7 +5,7 @@
 Prazer, meu nome é Christyan Assolini, tenho 20 anos e atualmente trabalho como auxiliar de soldador. Embora minha ocupação atual não esteja relacionada à minha área de interesse, estou cursando Engenharia de Software e me dedicando ao aprendizado de tecnologias voltadas ao desenvolvimento web, com foco em full-stack. Estou em busca de uma oportunidade para aplicar esses conhecimentos e crescer profissionalmente na área de tecnologia.
 
 <div>
-<a href="www.linkedin.com/in/christyassolini">
+<a href="https://www.linkedin.com/in/christyassolini/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.instagram.com/christyassolini/">
