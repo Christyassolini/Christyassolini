@@ -2,7 +2,9 @@
 
 **`Estudante de Engenharia de Software`**
 
-Prazer, meu nome é Christyan Assolini, tenho 20 anos e atualmente trabalho como auxiliar de soldador. Embora minha ocupação atual não esteja relacionada à minha área de interesse, estou cursando Engenharia de Software e me dedicando ao aprendizado de tecnologias voltadas ao desenvolvimento web, com foco em full-stack. Estou em busca de uma oportunidade para aplicar esses conhecimentos e crescer profissionalmente na área de tecnologia.
+Prazer, meu nome é Christyan Assolini, tenho 20 anos e atualmente estou em transição de carreira para a área de tecnologia. Atuei anteriormente como auxiliar de soldador, experiência que contribuiu para o desenvolvimento de disciplina, responsabilidade e comprometimento profissional.
+
+Sou estudante de Engenharia de Software e venho me dedicando diariamente ao aprendizado de tecnologias voltadas ao desenvolvimento de sistemas, com foco em full stack. Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde possa aplicar na prática os conhecimentos adquiridos, evoluir tecnicamente e contribuir com soluções de qualidade.
 
 <div>
 <a href="https://www.linkedin.com/in/christyassolini/">
