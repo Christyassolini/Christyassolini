@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Prazer, meu nome é Christyan Assolini, tenho 20 anos e atualmente estou em transição de carreira para a área de tecnologia.
+Prazer, meu nome é Christyan Assolini, tenho 21 anos e atualmente estou em transição de carreira para a área de tecnologia.
 
 Sou estudante de Engenharia de Software e venho me dedicando diariamente ao aprendizado de tecnologias voltadas ao desenvolvimento de sistemas, com foco em full stack. Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde possa aplicar na prática os conhecimentos adquiridos, evoluir tecnicamente e contribuir com soluções de qualidade.
 
